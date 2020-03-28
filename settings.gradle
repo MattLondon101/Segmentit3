@@ -1,0 +1,2 @@
+include ':app', 'OpenCVLibrary341'
+rootProject.name='SegThree'
